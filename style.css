@@ -1,0 +1,15 @@
+body{
+	background-color: cornSilk;
+	color: black;
+}
+
+h1{
+	font-family: Helvetica;	
+}
+
+p {
+ color: DimGray;
+ font-weight: bold;
+ font-family: cursive;
+ font-style: italic;
+}
